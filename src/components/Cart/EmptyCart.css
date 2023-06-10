@@ -1,0 +1,25 @@
+.empty-cart {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 30px;
+}
+.empty-cart img {
+width: 100%;
+}
+.empty-cart h1 {
+    font-weight: 600;
+}
+.empty-status-info {
+    padding: 10px;
+}
+.empty-highlight {
+    color: orangered;
+}
+
+@media(max-width:800px) {
+    .empty-cart {
+        flex-direction: column-reverse;
+    }
+}

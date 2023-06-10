@@ -1,0 +1,45 @@
+nav {
+    background: #ffffff;
+    height: 60px;
+    position: sticky;
+    top: 0%;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    gap: 49px;
+    justify-content: center;
+    box-shadow: 0px -3px 15px grey;
+}
+
+.bag {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    
+}
+
+.shopping-bag-icon {
+    color: rgb(36, 94, 36);
+}
+
+.cart-quantity {
+    position: absolute;
+    padding: 3px;
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    text-align: center;
+    top: 0%;
+    right: 25%;
+    font-weight: 600;
+    color: rgb(4, 44, 19);
+}
+
+
+.nav-link {
+    text-decoration: none;
+    color: #000000;
+}
