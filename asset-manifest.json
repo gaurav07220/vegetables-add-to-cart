@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vegetables-add-to-cart/static/css/main.ff2df060.css",
+    "main.js": "/vegetables-add-to-cart/static/js/main.8a11b45c.js",
+    "index.html": "/vegetables-add-to-cart/index.html",
+    "main.ff2df060.css.map": "/vegetables-add-to-cart/static/css/main.ff2df060.css.map",
+    "main.8a11b45c.js.map": "/vegetables-add-to-cart/static/js/main.8a11b45c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff2df060.css",
+    "static/js/main.8a11b45c.js"
+  ]
+}
